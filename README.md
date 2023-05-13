@@ -1,5 +1,6 @@
 - 👋 Olá, sou Leandro Oliveira
-- 👀 Estou de olho em tudo que é Java
+- 👀 Estou de olho em tudo que é Java e outras tecnologia de front-end como no angular
+- 🤖 No back-end também me arrisco no kotlin
 - 🌱 Gosto de tecnologia e ciência
 - 💞️ Vou colaborando a medida que vou aprendendo
 - 📫 Quer falar comigo? lpoliviera.ti@gmail.com
